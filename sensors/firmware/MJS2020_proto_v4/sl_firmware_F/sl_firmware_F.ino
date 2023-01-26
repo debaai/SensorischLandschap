@@ -1,8 +1,9 @@
 /*******************************************************************************
-   Copyright (c) 2021 Paul Brouwer
-
-   Adapted from Meet Je Stad Firmware
+   The original Meet Je Stad Firmware
    Copyright (c) 2016 Thomas Telkamp, Matthijs Kooijman, Bas Peschier, Harmen Zijp
+
+   Changes made for the Sensorisch Landschap project
+   Copyright (c) 2021 Paul Brouwer
 
    Permission is hereby granted, free of charge, to anyone
    obtaining a copy of this document and accompanying files,
