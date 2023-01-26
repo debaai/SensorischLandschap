@@ -1,11 +1,11 @@
-# SensorischLandschap
+# Sensorisch Landschap
 Pulbic github repository for the project Sensorisch Landschap, containing firmware, hardware designs,data and analysis scripts
 
 ## sensors
-The folder sensors contains firmware and hardware developed in this project
+The 'sensors' folder contains firmware and hardware developed in this project
 
 ## dataset
-The dataset folder contains the data of the project
+The 'dataset' folder contains the data gathered during the project
 
 ## analysis
-The folder 'analysis' contains all scripts for performing data calculations on the dataset
+The 'analysis' folder contains all scripts used to analyse the dataset
