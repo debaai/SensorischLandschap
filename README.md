@@ -8,4 +8,4 @@ The 'sensors' folder contains firmware and hardware developed in this project
 The 'dataset' folder contains the data gathered during the project
 
 ## analysis
-The folder 'analysis' contains all scripts used to analyse the dataset
+The 'analysis' folder contains all scripts used to analyse the dataset
