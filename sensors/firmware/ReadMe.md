@@ -1,4 +1,4 @@
-# SensorischLandschap - Sensors - Firmare
+# SensorischLandschap - Sensors - Firmware
 
 ## MJS2020_proto_v4
 The firmware used to drive the Meet Je Stad (MJS) hardware. This hardware performs data collection from the sensors and transmission over LoRa. 
