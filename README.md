@@ -1,4 +1,4 @@
-# SensorischLandschap
+# Sensorisch Landschap
 Pulbic github repository for the project Sensorisch Landschap, containing firmware, hardware designs,data and analysis scripts
 
 ## sensors
