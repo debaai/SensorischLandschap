@@ -4,7 +4,7 @@ Public github repository for the project Sensorisch Landschap. In this project w
 ## sensors
 The 'sensors' folder contains firmware and hardware developed in this project. 
  The main components used for the measurement station are:
-- Meet Je Stad PCB Proto v4 (https://github.com/meetjestad)
+- Meet Je Stad PCB Proto v4 
 - Pinotech Soilwatch 10
 - Si7021 temperature and humidity sensor
 - Sensirion SDC30 CO2 sensor
