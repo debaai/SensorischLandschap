@@ -1,5 +1,5 @@
 # Sensorisch Landschap
-Pulbic github repository for the project Sensorisch Landschap, containing firmware, hardware designs,data and analysis scripts. More information about the project can be found on www.sensorischlandschap.nl
+Public github repository for the project Sensorisch Landschap, containing firmware, hardware designs,data and analysis scripts. More information about the project can be found on www.sensorischlandschap.nl
 
 ## sensors
 The 'sensors' folder contains firmware and hardware developed in this project
